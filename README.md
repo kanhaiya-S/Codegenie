@@ -30,8 +30,8 @@ Additionally, CodeGenie offers a **Chrome extension** for quick and accessible t
 
 ### **1. Clone the Repository**  
 ```bash
-git clone https://github.com/kanhaiya-S/codegenie.git
-cd codegenie
+git clone https://github.com/kanhaiya-S/Codegenie.git
+cd Codegenie
 ```
 
 ### **2. Install Dependencies**  
