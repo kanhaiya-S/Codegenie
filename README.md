@@ -30,7 +30,7 @@ Additionally, CodeGenie offers a **Chrome extension** for quick and accessible t
 
 ### **1. Clone the Repository**  
 ```bash
-git clone https://github.com/alex4840/codegenie.git
+git clone https://github.com/kanhaiya-S/codegenie.git
 cd codegenie
 ```
 
